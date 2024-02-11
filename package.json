@@ -1,0 +1,27 @@
+{
+  "name": "user-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "chart.js": "^4.4.1",
+    "faker": "^6.6.6",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "daisyui": "^4.6.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
